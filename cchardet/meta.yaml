@@ -32,7 +32,6 @@ requirements:
     - python
     - setuptools
     - cython
-    - mingw
 
   run:
     - python
