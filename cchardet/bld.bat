@@ -1,6 +1,6 @@
 
 
-set PATH=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin;%PATH%;
+::set PATH=C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin;%PATH%;
 "%PYTHON%" setup.py install
 if errorlevel 1 exit 1
 
